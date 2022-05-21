@@ -1,0 +1,9 @@
+.review-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.no-review {
+    margin-left: 140px;
+    color: white;
+}
